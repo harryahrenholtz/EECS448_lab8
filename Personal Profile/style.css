@@ -1,0 +1,33 @@
+body
+{
+	background-color: 	#00FFFF;
+}
+
+a
+{
+	color: brown;
+	font-size: 25pt;
+}
+
+h2
+{
+	color: brown;
+	font-size:30;
+}
+
+p:hover
+{
+	color: brown;
+}
+
+p
+{
+	color: white;
+	font-family: serif;
+	font-size: 25pt;
+}
+
+p.photo
+{
+	color: green;
+}
